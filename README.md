@@ -1,4 +1,5 @@
 📌 Project Overview
+
 QuickHelp addresses the gap in digital service hiring by offering a user-friendly solution for both clients and skilled workers. The platform supports:
 
 Real-time job matching via geolocation
@@ -6,7 +7,9 @@ CNIC-based user verification
 In-app chat and booking system
 Ratings and reviews for trust-building
 Role-based access for clients, workers, and admins
+
 🛠️ Tech Stack
+
 Frontend: React Native (mobile), React.js (web)
 Backend: Node.js
 Database: Firebase (Firestore, Auth)
@@ -27,8 +30,11 @@ Admin Panel
 Approve new users and job requests
 Assign workers and manage roles via RBAC
 Track platform activities and status updates
+
 📽️ Project Demo
+
 📺 Watch Demonstration Video
+https://drive.google.com/file/d/1GRnveuKGylo-fRcSKWPsWRVOmOI7srSb/view?usp=drive_link
 
 📁 All items are shared in the Google Drive Folder
 
