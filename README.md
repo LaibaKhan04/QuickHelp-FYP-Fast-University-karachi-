@@ -11,8 +11,11 @@ Role-based access for clients, workers, and admins
 🛠️ Tech Stack
 
 Frontend: React Native (mobile), React.js (web)
+
 Backend: Node.js
+
 Database: Firebase (Firestore, Auth)
+
 APIs: Google Maps, OpenStreetMap, ImageBB, OCR
 
 🔑 Features
